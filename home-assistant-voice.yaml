@@ -1526,6 +1526,8 @@ micro_wake_word:
   models:
     - model: https://github.com/kahrendt/microWakeWord/releases/download/okay_nabu_20241226.3/okay_nabu.json
       id: okay_nabu
+    - model: https://github.com/Wingeddonkey/HomeAssistantVoice/releases/download/V1/homer.json
+      id: homer
     - model: hey_jarvis
       id: hey_jarvis
     - model: hey_mycroft
